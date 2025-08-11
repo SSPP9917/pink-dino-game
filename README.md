@@ -1,2 +1,0 @@
-# pink-dino-game
-Draft 
